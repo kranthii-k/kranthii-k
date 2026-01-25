@@ -6,7 +6,7 @@ building things • breaking things • learning things
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -16,7 +16,7 @@ building things • breaking things • learning things
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -24,7 +24,7 @@ building things • breaking things • learning things
 
 </div>
 
----
+
 
 <div align="center">
 
