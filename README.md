@@ -22,7 +22,7 @@ building things • breaking things • learning things
 
 ### currently building
 
-**[camply.live](https://camplyy.in)** - *my latest project*
+**[camplyy.in](https://camplyy.in)** - *my latest project*
 
 </div>
 
